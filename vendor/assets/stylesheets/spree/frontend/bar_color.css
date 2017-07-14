@@ -1,0 +1,55 @@
+#spree-header{
+	background: blue;
+}
+#default{
+	color:white;
+	font-family: "Iskoola Pota";
+	background-color: darkblue;
+}
+#product-details{
+	color:white;
+	font-family: "Iskoola Pota";
+	background-color: darkblue;
+}
+#checkout-page{
+	color: darkred;
+}
+.well{
+	color: black;
+}
+.active{
+	color: black;
+}
+#order-total{
+	color: black;
+}
+#legend{
+	color: white;
+}
+.breadcrumb{
+	background-color: chocolate;
+}
+
+#spree-header{
+	background: midnightblue;
+}
+#home-page{
+	color:white;
+	font-family: "Iskoola Pota";
+	background-color: royalblue;
+
+}
+.panel-body{
+	background-color: black;
+}
+.panel-footer{
+	background-color: darkgreen;
+}
+.a.list-group-item{
+	background-color: darkslategray;
+	color: black;
+}
+.list-group-item{
+	background-color: cadetblue;
+	color: black;
+}
